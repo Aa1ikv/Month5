@@ -26,7 +26,7 @@ class CounterPresenter {
         if (count.toInt() == 16){
             contract?.changeTextColor(R.color.black)
         }
-        })
+        }
     }
 
 
